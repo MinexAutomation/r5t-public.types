@@ -1,0 +1,1 @@
+export { SayGoodbye, SayHello } from "./hello-world"
